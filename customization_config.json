@@ -1,0 +1,17 @@
+{
+    "additional_software": [
+        "vim",
+        "htop",
+        "git",
+        "gnome-shell-extensions",
+        "gnome-system-monitor"
+    ],
+    "gnome_settings": {
+        "org.gnome.desktop.interface gtk-theme": "'Adwaita-dark'",
+        "org.gnome.desktop.interface icon-theme": "'Adwaita'",
+        "org.gnome.Terminal.Legacy.Settings default-show-menubar": "false"
+    },
+    "network_config": {
+        "my-connection": "ipv4.addresses 192.168.1.100/24"
+    }
+}
